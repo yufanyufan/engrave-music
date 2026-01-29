@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[2123,["559","static/chunks/559-b2e0a8986edf4356.js","334","static/chunks/334-6eb823ab0ca67943.js","177","static/chunks/app/layout-a06a72e6f4f80db8.js"],"AppProviders"]
+2:I[2123,["559","static/chunks/559-a0dc4d1434934b26.js","334","static/chunks/334-bf93ee5d2d249d37.js","177","static/chunks/app/layout-cfbf0068d053edef.js"],"AppProviders"]
 3:I[7121,[],""]
 4:I[4581,[],""]
 :HL["/engrave-music/_next/static/css/de14b320e4856563.css","style"]
-0:{"buildId":"0v8BIKRONuCXz__L6qv4i","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/engrave-music/_next/static/css/de14b320e4856563.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_cf209f __variable_0eefe5 antialiased","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"KbJnYBfe6i6fhper0Ucz-","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/engrave-music/_next/static/css/de14b320e4856563.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_cf209f __variable_0eefe5 antialiased","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]}]]}],"loading":null,"isPartial":false}
