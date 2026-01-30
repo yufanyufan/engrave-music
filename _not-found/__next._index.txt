@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[2123,["559","static/chunks/559-b3ab4eaa2164809f.js","334","static/chunks/334-bda3dcac71e1d877.js","177","static/chunks/app/layout-5b22cdbc90842a1f.js"],"AppProviders"]
+2:I[2123,["559","static/chunks/559-4fa48aac91660a76.js","334","static/chunks/334-329171621456bd07.js","177","static/chunks/app/layout-209adf480bc05a27.js"],"AppProviders"]
 3:I[7121,[],""]
 4:I[4581,[],""]
 :HL["/engrave-music/_next/static/css/c1ecb83e620aaf54.css","style"]
-0:{"buildId":"wkwwvzkG7njsFGfp1TgLr","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/engrave-music/_next/static/css/c1ecb83e620aaf54.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_cf209f __variable_0eefe5 antialiased","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"xT5NIWnkSELwyb72X-WYg","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/engrave-music/_next/static/css/c1ecb83e620aaf54.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_cf209f __variable_0eefe5 antialiased","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]}]]}],"loading":null,"isPartial":false}
