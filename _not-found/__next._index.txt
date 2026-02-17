@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[2123,["559","static/chunks/559-8efaf70c93b79a50.js","230","static/chunks/230-383c041654631e0a.js","177","static/chunks/app/layout-58b7ee5cac91ddc6.js"],"AppProviders"]
-3:I[4580,["559","static/chunks/559-8efaf70c93b79a50.js","230","static/chunks/230-383c041654631e0a.js","177","static/chunks/app/layout-58b7ee5cac91ddc6.js"],"FontLoader"]
+2:I[2123,["559","static/chunks/559-d677d4e3c0ec93d7.js","230","static/chunks/230-3539dc9e2c235c65.js","177","static/chunks/app/layout-ca753f70d60336c4.js"],"AppProviders"]
+3:I[4580,["559","static/chunks/559-d677d4e3c0ec93d7.js","230","static/chunks/230-3539dc9e2c235c65.js","177","static/chunks/app/layout-ca753f70d60336c4.js"],"FontLoader"]
 4:I[7121,[],""]
 5:I[4581,[],""]
 :HL["/engrave-music/_next/static/css/52ab1fab995af28f.css","style"]
-0:{"buildId":"KPTBtvLF8lJgrhWEXiXkF","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/engrave-music/_next/static/css/52ab1fab995af28f.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_cf209f __variable_0eefe5 antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}]}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"5DnKffnIhdsubJkhCq8Is","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/engrave-music/_next/static/css/52ab1fab995af28f.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_cf209f __variable_0eefe5 antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}]}]}]]}],"loading":null,"isPartial":false}
